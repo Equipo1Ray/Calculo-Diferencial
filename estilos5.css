@@ -1,0 +1,79 @@
+*{
+    background-color: aliceblue;
+}
+
+#h{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(3, 49, 88);
+    font-size: 3em;
+    width: auto;
+    padding: 1%;
+    background-color: rgb(73, 101, 151);
+    border-radius: .5em;
+    margin: 1%;
+    box-shadow: 5px, 5px, 5px black;
+    
+}
+
+#bot1{
+    background-color: rgb(73, 101, 151);
+    color: white;
+    border-radius: 1em;
+    width: 100px;
+    height: 50px;
+    border-color: rgb(73, 101, 151);
+}
+
+#bot1:hover{
+    background-color: rgb(150, 155, 185);
+    color: black;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+
+form{
+    margin-left: 1%;
+}
+
+#h1{
+
+}
+
+textarea{
+   width: 30em;
+   border-radius: 1em;
+   border-color: rgb(13, 111, 177);
+}
+
+#in1{
+    border-radius: 1em;
+    border-color: rgb(13, 111, 177);
+}
+
+#in2{
+    border-radius: 1em;
+    border-color: rgb(13, 111, 177);
+}
+
+#h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+#h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+#h3{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+#link1{
+    position: relative;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}

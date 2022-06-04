@@ -1,0 +1,59 @@
+*{
+    background-color: aliceblue;
+}
+
+#bio{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(3, 49, 88);
+    font-size: 3em;
+    width: auto;
+    padding: 1%;
+    background-color: rgb(73, 101, 151);
+    border-radius: .5em;
+    margin: 1%;
+    box-shadow: 5px, 5px, 5px black;
+}
+
+#e{
+    width: 300px;
+    height: 300px;
+    border-radius: 5em;
+    margin: 1%;
+
+}
+
+#eri{
+    background-color: rgb(111, 134, 173);
+    color: white;
+    border-radius: 1em;
+    width: 1000px;
+    height: 50px;
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+}
+
+#f{
+    width: 300px;
+    height: 300px;
+    border-radius: 5em;
+    margin: 1%;
+
+}
+
+#fer{
+    background-color: rgb(111, 134, 173);
+    color: white;
+    border-radius: 1em;
+    width: 1000px;
+    height: 50px;
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+}
+#link1{
+    position: relative;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}

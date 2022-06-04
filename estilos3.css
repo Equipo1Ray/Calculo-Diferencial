@@ -1,0 +1,95 @@
+*{
+    background-color: rgb(255, 217, 181) ;
+}
+
+#t1{
+    position: relative;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+    width: 80%;
+    left: 4%;
+    background-color: rgb(238, 142, 50);
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: .5em .5em 0em rgb(3, 18, 37);
+}
+
+#t2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
+
+#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8{
+    position: relative;
+    text-align: center;
+    width: 70%;
+    left: 13%;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 199, 77 );
+    padding: 1em;
+    border-radius: 3em;
+    box-shadow: .5em .5em 0em rgb(3, 18, 37);
+}
+
+#c1, #c2, #c3, #c4{
+    position: relative;
+    width: 80em;
+    height: 40em;
+    left: 18%;
+    box-shadow:20px 20px rgb(0, 0, 0); 
+}
+
+#c5{
+    position: relative;
+    width: 30em;
+    height: 10em;
+    left: 32%;
+}
+
+#c6{
+    position: relative;
+    width: 10em;
+    height: 20em;
+    left: 44%;
+}
+
+#vid{
+    position: relative;
+    width: 50em;
+    height: 25em;
+    left: 30%;
+    top: 30%;
+
+}
+
+#link{
+    position: relative ;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    left: 34%;
+}
+#videot{
+    position: relative;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    width: 80%;
+    left: 7%;
+    background-color: rgb(255, 133, 103);
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: .5em .5em 0em rgb(3, 18, 37);
+}
+
+
+#link1{
+    position: relative;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+}
+    
